@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+data/
+config.yaml
+.pytest_cache/
+TT_Sniffer_another_agent.zip
+soak_baseline.log
+*.log
+.omo/
+docs/private/
+/shots/
+scripts/audit_user_db.py
+scripts/collect_midnight_evidence.py
